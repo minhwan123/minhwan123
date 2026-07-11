@@ -4,13 +4,9 @@
 
 <p align="center">
 🎓 <b>Dongguk University</b> · AI융합학부 데이터사이언스학과<br/>
-🔍 Interests : Machine Learning · Deep Learning · Computer Vision
+🔍 Interests : Data · ML/DL · Computer Vision
 </p>
 
-<p align="center">
-데이터로 문제를 정의하고, 모델과 서비스로 풀어내는 <b>데이터/ML 엔지니어</b>를 지향합니다.<br/>
-팀 프로젝트에서 주로 <b>팀장 겸 AI/데이터 파트</b>를 맡아왔습니다.
-</p>
 
 <br>
 
@@ -23,7 +19,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-2C3E50?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
 
 **Computer Vision & Data**
 <br>
