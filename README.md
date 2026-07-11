@@ -51,7 +51,7 @@ PPG(광용적맥파) 신호만으로 부정맥을 탐지·구간분할하고, LL
 `PyTorch` `CLIP-initialized U-Net` `LLM Reporting`
 
 ### 🎭 [Cullect — 문화생활 추천 시스템](https://github.com/minhwan123/Cullect)
-동국대 공개SW프로젝트, **팀장 겸 AI 추천 시스템 개발**.
+동국대 공개SW프로젝트, **AI 추천 시스템 개발**.
 사용자 프로필·행동 로그 기반 **Collaborative Filtering + XGBoost 하이브리드 추천 엔진** 설계·구현.
 `FastAPI` `XGBoost` `Hybrid Recommender`
 
