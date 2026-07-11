@@ -1,19 +1,23 @@
-# 안녕하세요, 노민환입니다 🙌
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Minhwan%20Noh&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Data%20%2F%20ML%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+</p>
 
-데이터로 문제를 정의하고, 모델과 서비스로 풀어내는 **데이터/ML 엔지니어**를 지향합니다.
-동국대학교 재학 중이며, 팀 프로젝트에서 주로 **팀장 겸 AI/데이터 파트**를 맡아왔습니다.
+<p align="center">
+  <img src="https://img.shields.io/badge/University-Dongguk%20University-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Major-Artificial%20Intelligence-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Interest-ML%20%C2%B7%20Data%20%C2%B7%20Computer%20Vision-1F2937?style=for-the-badge" />
+</p>
+
+<p align="center">
+데이터로 문제를 정의하고, 모델과 서비스로 풀어내는 <b>데이터/ML 엔지니어</b>를 지향합니다.<br/>
+팀 프로젝트에서 주로 <b>팀장 겸 AI/데이터 파트</b>를 맡아왔습니다.
+</p>
 
 <br>
 
-## 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,opencv,mysql,git,github,docker" />
+</p>
 
 <br>
 
@@ -48,5 +52,9 @@ MBTI 스타일 시각화 + 맞춤형 차량 추천 · 뉴스 연동 · AI 챗봇
 
 ## 📫 Contact
 
-- Email: min1026hwan@naver.com
-- Blog: https://blog.naver.com/min1026hwan
+<p align="center">
+  <a href="mailto:min1026hwan@naver.com"><img src="https://img.shields.io/badge/Email-min1026hwan%40naver.com-1F2937?style=for-the-badge&logo=naver&logoColor=white" /></a>
+  <a href="https://blog.naver.com/min1026hwan"><img src="https://img.shields.io/badge/Blog-blog.naver.com-1F2937?style=for-the-badge&logo=naver&logoColor=white" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%"/>
