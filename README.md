@@ -38,7 +38,6 @@
 
 **LLM / API**
 <br>
-![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat-square)
 ![Naver API](https://img.shields.io/badge/Naver%20API-03C75A?style=flat-square&logo=naver&logoColor=white)
 
