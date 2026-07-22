@@ -56,7 +56,7 @@ PPG(광용적맥파) 신호만으로 부정맥을 탐지·구간분할하고, LL
 `FastAPI` `XGBoost` `Hybrid Recommender`
 
 ### 🛰️ [위성 영상 기반 대기오염 배출원 탐지](https://github.com/minhwan123/satellite-air-pollution-detection)
-과학기술정보통신부 주관 데이터 크리에이터 캠프 팀 프로젝트, **팀장**으로 참여.
+과학기술정보통신부 주관 데이터 크리에이터 캠프 팀 프로젝트,
 위성 영상에서 굴뚝을 탐지(YOLOv8) → 높이를 추정(EfficientNet-B3) → 산업단지 영역을 분할(U-Net)하는 3단계 AI 파이프라인 구축.
 `YOLOv8` `U-Net` `EfficientNet`
 
