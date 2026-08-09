@@ -6,9 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=7DD3FC&center=true&vCenter=true&width=620&height=42&lines=Data+Science+%C2%B7+AI+Convergence;Classification+%7C+Segmentation+%7C+Regression;Object+Detection+%7C+Multimodal+Learning" alt="Typing SVG" />
 </p>
 
+<br>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=minhwan123&label=Profile%20Views&color=203A43&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/minhwan123?style=flat-square&color=203A43&labelColor=0F2027&logo=github&logoColor=white&label=Followers" />
   <a href="mailto:min1026hwan@naver.com"><img src="https://img.shields.io/badge/Email-2C5364?style=flat-square&logo=naver&logoColor=white" /></a>
   <a href="https://blog.naver.com/min1026hwan"><img src="https://img.shields.io/badge/Blog-2C5364?style=flat-square&logo=naver&logoColor=white" /></a>
 </p>
@@ -126,18 +126,9 @@ PPG(광용적맥파) 신호만으로 부정맥을 탐지·구간분할하고, LL
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minhwan123&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=7DD3FC&icon_color=38BDF8&text_color=C9D1D9&ring_color=2C5364" height="170" />
 <img src="https://streak-stats.demolab.com?user=minhwan123&hide_border=true&background=0D1117&stroke=203A43&ring=38BDF8&fire=7DD3FC&currStreakLabel=7DD3FC&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=6E7681" height="170" />
 
 <br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhwan123&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7DD3FC&text_color=C9D1D9" height="160" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=minhwan123&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" />
-
-<br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhwan123&bg_color=0D1117&color=7DD3FC&line=38BDF8&point=FFFFFF&area_color=203A43&area=true&hide_border=true" width="100%" />
 
